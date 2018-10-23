@@ -1,0 +1,7 @@
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad4\PracaGieldy\PracaGieldy\bin\Debug\PracaGieldy.exe.config
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad4\PracaGieldy\PracaGieldy\bin\Debug\PracaGieldy.exe
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad4\PracaGieldy\PracaGieldy\bin\Debug\PracaGieldy.pdb
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad4\PracaGieldy\PracaGieldy\obj\Debug\StockExchangeWork.csprojResolveAssemblyReference.cache
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad4\PracaGieldy\PracaGieldy\obj\Debug\StockExchangeWork.csproj.CoreCompileInputs.cache
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad4\PracaGieldy\PracaGieldy\obj\Debug\PracaGieldy.exe
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad4\PracaGieldy\PracaGieldy\obj\Debug\PracaGieldy.pdb

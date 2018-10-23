@@ -1,0 +1,7 @@
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 4\PracaGieldy\PracaGieldy\bin\Debug\PracaGieldy.exe.config
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 4\PracaGieldy\PracaGieldy\bin\Debug\PracaGieldy.exe
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 4\PracaGieldy\PracaGieldy\bin\Debug\PracaGieldy.pdb
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 4\PracaGieldy\PracaGieldy\obj\Debug\PracaGieldy.csprojResolveAssemblyReference.cache
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 4\PracaGieldy\PracaGieldy\obj\Debug\PracaGieldy.csproj.CoreCompileInputs.cache
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 4\PracaGieldy\PracaGieldy\obj\Debug\PracaGieldy.exe
+C:\JUSTYNA\WSB\ROK I\SEMESTR II\Programowanie obiektowe\ćwiczenia\WZ_ININ2_2.1-20180411\Zadanie na zaliczenie\zad 4\PracaGieldy\PracaGieldy\obj\Debug\PracaGieldy.pdb
